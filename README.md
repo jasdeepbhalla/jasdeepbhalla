@@ -74,6 +74,5 @@ If you're into AI, cloud, AWS, and DevOps — subscribe to follow along.
 ---
 
 <p align="center">
-  <a href="https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/">🌐 Website</a> &nbsp;·&nbsp;
-  <a href="mailto:jasdeepbhalla@gmail.com">✉️ Email</a>
+  <a href="https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/">🌐 Website</a>
 </p>
