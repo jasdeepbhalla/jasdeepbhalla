@@ -55,10 +55,15 @@ If you're into AI, cloud, AWS, and DevOps — subscribe to follow along.
   <a href="https://jasdeepsinghbhalla.substack.com/">
     <img src="https://img.shields.io/badge/Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@jasdeepsinghbhalla">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 - **LinkedIn** — Daily short-form content on AI & cloud
 - **Substack** — Long-form technical deep dives
+- **YouTube** — Tutorials and walkthroughs
 
 ---
 
