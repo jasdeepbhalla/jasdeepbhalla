@@ -23,26 +23,6 @@
 
 ---
 
-### 🏅 Recognition
-| | |
-|---|---|
-| ☁️ **AWS Community Builder 2026** | Selected by Amazon for contributions to the AWS ecosystem |
-| 🏅 **IEEE Senior Member** | Awarded to fewer than 10% of 400K+ IEEE members |
-| 🎤 **AWS Summit Los Angeles 2026** | Speaker on cloud governance & AI infrastructure |
-| 📰 **NPR — Named attribution** | Quoted for cybersecurity engineering work (2017) |
-| 📚 **13 peer-reviewed papers** | 61+ independent citations |
-
----
-
-### 📝 Latest Writing
-- 🟠 [AWS Blog — Streamlining Cloud Compliance at GoDaddy Using CDK Aspects](https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/)
-- 🔵 [DevOps.com — Prompt Injection Isn't Just a Chat Problem](https://devops.com/prompt-injection-isnt-just-a-chat-problem-its-a-devops-threat/)
-- ✍️ [Substack — Long-form technical articles](https://jasdeepsinghbhalla.substack.com/)
-- 📰 [LinkedIn Newsletter — Daily content on AI & cloud](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905)
-
-
----
-
 ### 📬 Stay in the Loop
 
 If you're into AI, cloud, AWS, and DevOps — subscribe to follow along.
@@ -75,6 +55,25 @@ If you're into AI, cloud, AWS, and DevOps — subscribe to follow along.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+---
+
+### 🏅 Recognition
+| | |
+|---|---|
+| ☁️ **AWS Community Builder 2026** | Selected by Amazon for contributions to the AWS ecosystem |
+| 🏅 **IEEE Senior Member** | Awarded to fewer than 10% of 400K+ IEEE members |
+| 🎤 **AWS Summit Los Angeles 2026** | Speaker on cloud governance & AI infrastructure |
+| 📰 **NPR — Named attribution** | Quoted for cybersecurity engineering work (2017) |
+| 📚 **13 peer-reviewed papers** | 61+ independent citations |
+
+---
+
+### 📝 Latest Writing
+- 🟠 [AWS Blog — Streamlining Cloud Compliance at GoDaddy Using CDK Aspects](https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/)
+- 🔵 [DevOps.com — Prompt Injection Isn't Just a Chat Problem](https://devops.com/prompt-injection-isnt-just-a-chat-problem-its-a-devops-threat/)
+- ✍️ [Substack — Long-form technical articles](https://jasdeepsinghbhalla.substack.com/)
+- 📰 [LinkedIn Newsletter — Daily content on AI & cloud](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905)
 
 ---
 
