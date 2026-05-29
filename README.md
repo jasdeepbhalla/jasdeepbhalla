@@ -1,33 +1,58 @@
-# Hi, I'm Jasdeep 👋
+<h1 align="center">Hi, I'm Jasdeep Singh Bhalla 👋</h1>
 
-Senior Software Engineer · Cloud Governance · AI Infrastructure · AWS
+<p align="center">
+  <b>Senior Software Engineer · Cloud Governance · AI Infrastructure · AWS</b><br/>
+  <i>Building systems that govern cloud at scale. Teaching AI, AWS & DevOps through content.</i>
+</p>
 
-I build systems that govern cloud infrastructure at scale, create content to teach AI, cloud, AWS, and Docker, and share what I learn along the way.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jsblive/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/jasdeepsbhalla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@jasdeepsinghbhalla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://jasdeepsinghbhalla.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=wHmzQNkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+</p>
 
 ---
 
-### What I'm working on
-- 🏗️ Cloud governance automation at enterprise scale (2,500+ AWS accounts)
+### 🔭 What I'm working on
+- ☁️ Cloud governance automation across 2,500+ AWS accounts at GoDaddy
 - 🤖 AI-driven infrastructure and agentic cloud systems
-- 📹 Teaching cloud, AWS, and DevOps through content
+- 📹 Teaching AI, cloud, AWS & Docker through content
 
 ---
 
-### Writing & Content
-- 📰 [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905) — Daily content on AI & cloud
-- ✍️ [Substack](https://jasdeepsinghbhalla.substack.com/) — Long-form technical articles
-- ▶️ [YouTube](https://www.youtube.com/@jasdeepsinghbhalla) — Tutorials and walkthroughs
-- 🌐 [AWS Blog](https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/) — Published on cloud governance
+### 🏅 Recognition
+| | |
+|---|---|
+| ☁️ **AWS Community Builder 2026** | Selected by Amazon for contributions to the AWS ecosystem |
+| 🏅 **IEEE Senior Member** | Awarded to fewer than 10% of 400K+ IEEE members |
+| 🎤 **AWS Summit Los Angeles 2026** | Speaker on cloud governance & AI infrastructure |
+| 📰 **NPR — Named attribution** | Quoted for cybersecurity engineering work (2017) |
+| 📚 **13 peer-reviewed papers** | 61+ independent citations |
 
 ---
 
-### Recognition
-- 🏅 IEEE Senior Member
-- ☁️ AWS Community Builder 2026
-- 🎤 Speaker, AWS Summit Los Angeles 2026
-- 📚 13 peer-reviewed papers · 61+ citations
+### 📝 Latest Writing
+- 🟠 [AWS Blog — Streamlining Cloud Compliance at GoDaddy Using CDK Aspects](https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/)
+- 🔵 [DevOps.com — Prompt Injection Isn't Just a Chat Problem](https://devops.com/prompt-injection-isnt-just-a-chat-problem-its-a-devops-threat/)
+- ✍️ [Substack — Long-form technical articles](https://jasdeepsinghbhalla.substack.com/)
+- 📰 [LinkedIn Newsletter — Daily content on AI & cloud](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905)
 
 ---
 
-### Connect
-[Website](https://jasdeepbhalla.github.io) · [LinkedIn](https://www.linkedin.com/in/jsblive/) · [X](https://x.com/jasdeepsbhalla) · [YouTube](https://www.youtube.com/@jasdeepsinghbhalla) · [Google Scholar](https://scholar.google.com/citations?user=wHmzQNkAAAAJ)
+### 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/">🌐 Website</a> &nbsp;·&nbsp;
+  <a href="mailto:jasdeepbhalla@gmail.com">✉️ Email</a>
+</p>
