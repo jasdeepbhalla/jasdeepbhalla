@@ -1,59 +1,32 @@
-<h1 align="center">Hi, I'm Jasdeep Singh Bhalla 👋</h1>
+### Hi, I'm Jasdeep Singh Bhalla
 
-<p align="center">
-  <b>Senior Software Engineer · Cloud Governance · AI Infrastructure · AWS</b><br/>
-  <i>Building systems that govern cloud at scale. Teaching AI, AWS & DevOps through content.</i>
-</p>
+**Senior Software Engineer · GoDaddy**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jsblive/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/jasdeepsbhalla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@jasdeepsinghbhalla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://jasdeepsinghbhalla.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=wHmzQNkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-</p>
+Senior Software Engineer with a passion for building, learning, and teaching. I create content around AI, cloud governance, AWS, and Docker — breaking down complex infrastructure into things anyone can understand and use.
 
 ---
 
-### 🔭 What I'm working on
-- ☁️ Cloud governance automation across 2,500+ AWS accounts at GoDaddy
-- 🤖 AI-driven infrastructure and agentic cloud systems
-- 📹 Teaching AI, cloud, AWS & Docker through content
-
----
-
-### 🏅 Recognition
-| | |
-|---|---|
-| ☁️ **AWS Community Builder 2026** | Selected by Amazon for contributions to the AWS ecosystem |
-| 🏅 **IEEE Senior Member** | Awarded to fewer than 10% of 400K+ IEEE members |
-| 🎤 **AWS Summit Los Angeles 2026** | Speaker on cloud governance & AI infrastructure |
-| 📰 **NPR — Named attribution** | Quoted for cybersecurity engineering work (2017) |
-| 📚 **13 peer-reviewed papers** | 61+ independent citations |
-
----
-
-### 📝 Latest Writing
-- 🟠 [AWS Blog — Streamlining Cloud Compliance at GoDaddy Using CDK Aspects](https://aws.amazon.com/blogs/devops/streamlining-cloud-compliance-at-godaddy-using-cdk-aspects/)
-- 🔵 [DevOps.com — Prompt Injection Isn't Just a Chat Problem](https://devops.com/prompt-injection-isnt-just-a-chat-problem-its-a-devops-threat/)
-- ✍️ [Substack — Long-form technical articles](https://jasdeepsinghbhalla.substack.com/)
-- 📰 [LinkedIn Newsletter — Daily content on AI & cloud](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905)
-
----
-
-### 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Cloud Governance](https://img.shields.io/badge/Cloud_Governance-0ea5e9?style=flat)
+![AI Infrastructure](https://img.shields.io/badge/AI_Infrastructure-8b5cf6?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![IEEE Senior Member](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=flat&logo=ieee&logoColor=white)
+![AWS Community Builder](https://img.shields.io/badge/AWS_Community_Builder-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-<p align="center">
-  <a href="https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/">🌐 Website</a> &nbsp;·&nbsp;
-  <a href="mailto:jasdeepbhalla@gmail.com">✉️ Email</a>
-</p>
+**Writing & Content**
 
+- 📰 [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905) — Daily content on AI & cloud
+- ✍️ [Substack](https://jasdeepsinghbhalla.substack.com/) — Long-form technical articles
+- ▶️ [YouTube](https://www.youtube.com/@jasdeepsinghbhalla) — Tutorials and walkthroughs
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsblive/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jasdeepsbhalla)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jasdeepsinghbhalla)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://jasdeepsinghbhalla.substack.com/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=wHmzQNkAAAAJ)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=github&logoColor=white)](https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/)
