@@ -16,7 +16,7 @@
 ---
 
 ### 🔭 What I'm working on
-- ☁️ Cloud governance automation across 2,500+ AWS accounts at GoDaddy
+- ☁️ Cloud governance and security automation at enterprise scale
 - 🤖 AI-driven infrastructure and agentic cloud systems
 - 📹 Teaching AI, cloud, AWS & Docker through content
 - 🌍 Contributing to open source — including [AWS CDK](https://github.com/aws/aws-cdk/pulls?q=is%3Apr+author%3Ajasdeepbhalla)
