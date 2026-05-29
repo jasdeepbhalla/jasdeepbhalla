@@ -18,11 +18,13 @@ I love contributing to the open source community — including projects like AWS
 
 ---
 
-**Writing & Content — Subscribe for daily AI & cloud content**
+**Writing & Content**
 
-- 📰 [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905) — Daily content on AI & cloud
-- ✍️ [Subscribe on Substack](https://jasdeepsinghbhalla.substack.com/) — Long-form technical articles
-- ▶️ [Subscribe on YouTube](https://www.youtube.com/@jasdeepsinghbhalla) — Tutorials and walkthroughs
+- 📰 [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905) — Daily content on AI & cloud
+- ✍️ [Substack](https://jasdeepsinghbhalla.substack.com/) — Long-form technical articles
+- ▶️ [YouTube](https://www.youtube.com/@jasdeepsinghbhalla) — Tutorials and walkthroughs
+
+> 💡 Subscribe to stay updated on AI, cloud governance, AWS & Docker.
 
 **Connect**
 
