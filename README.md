@@ -40,7 +40,25 @@
 - ✍️ [Substack — Long-form technical articles](https://jasdeepsinghbhalla.substack.com/)
 - 📰 [LinkedIn Newsletter — Daily content on AI & cloud](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905)
 
-> 💡 Subscribe to stay updated on AI, cloud governance, AWS & Docker.
+
+---
+
+### 📬 Stay in the Loop
+
+If you're into AI, cloud, AWS, and DevOps — subscribe to follow along.
+
+<p>
+  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://jasdeepsinghbhalla.substack.com/">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
+</p>
+
+- **LinkedIn** — Daily short-form content on AI & cloud
+- **Substack** — Long-form technical deep dives
 
 ---
 
