@@ -11,6 +11,7 @@
   <a href="https://www.youtube.com/@jasdeepsinghbhalla"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://jasdeepsinghbhalla.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=wHmzQNkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -75,8 +76,3 @@ If you're into AI, cloud, AWS, and DevOps — subscribe to follow along.
 - ✍️ [Substack — Long-form technical articles](https://jasdeepsinghbhalla.substack.com/)
 - 📰 [LinkedIn Newsletter — Daily content on AI & cloud](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7443782606472699905)
 
----
-
-<p align="center">
-  <a href="https://jasdeepbhalla.github.io/jasdeepsinghbhalla.github.io/">🌐 Website</a>
-</p>
