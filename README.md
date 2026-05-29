@@ -4,6 +4,8 @@
 
 Senior Software Engineer with a passion for building, learning, and teaching. I create content around AI, cloud governance, AWS, and Docker — breaking down complex infrastructure into things anyone can understand and use.
 
+I love contributing to the open source community — including projects like AWS CDK. Recognized as an **AWS Community Builder 2026** by Amazon and an **IEEE Senior Member** — awarded to fewer than 10% of IEEE's 400,000+ members.
+
 ---
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
