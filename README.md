@@ -1,6 +1,6 @@
 ### Hi, I'm Jasdeep Singh Bhalla
 
-**Senior Software Engineer · GoDaddy**
+**Senior Software Engineer · GoDaddy** *(Ex Yahoo · Ex Electronic Arts)*
 
 Senior Software Engineer with a passion for building, learning, and teaching. I create content around AI, cloud governance, AWS, and Docker — breaking down complex infrastructure into things anyone can understand and use.
 
